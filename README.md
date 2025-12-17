@@ -44,12 +44,12 @@ This project works **fully offline for AI generation** and **online for Google s
 
 ollama pull llama3
 
-
+---
 
 ### 🧑‍🍳 How to Use
 Option 1: Generate Recipe (AI)
 
-Choose option 1
+### Choose option 1
 
 Enter at least 5 ingredients (comma-separated)
 
@@ -57,7 +57,7 @@ Add optional taste preferences like sweet, tangy, spicy
 
 Wait while the recipe is generated
 
-Option 2: Search Recipe (Google)
+### Option 2: Search Recipe (Google)
 
 Choose option 2
 
@@ -65,7 +65,10 @@ Enter ingredients
 
 View real recipe links from Google
 
-🛑 Exit
+
+--- 
+
+### 🛑 Exit
 
 Type bye anytime to exit the program
 
