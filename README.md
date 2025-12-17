@@ -70,5 +70,3 @@ View real recipe links from Google
 Type bye anytime to exit the program
 
 
-```bash
-pip install requests python-dotenv
