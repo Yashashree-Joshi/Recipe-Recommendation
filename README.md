@@ -34,8 +34,6 @@ This project works **fully offline for AI generation** and **online for Google s
 ### 1️⃣ Clone or download the repository
 (If downloading from GitHub website, extract the files)
 
----
-
 ### 2️⃣ Install Python dependencies
 
 ### 3️⃣ Setup Google API (Required for Search Option)
@@ -67,6 +65,13 @@ View real recipe links from Google
 
 
 --- 
+
+### Sample Output
+
+<img width="322" height="202" alt="image" src="https://github.com/user-attachments/assets/c0d3a049-2213-4ed9-9c72-10955082bcf1" />
+<img width="1566" height="263" alt="image" src="https://github.com/user-attachments/assets/6e5bf437-94eb-470f-9552-f7aacba33ea3" />
+
+---
 
 ### 🛑 Exit
 
